@@ -3,10 +3,11 @@ import java.io.IOException;
 import java.io.FileReader;
 import java.io.InputStreamReader;
 
-// Resolução do Desafio 2670 - URI (Máquina de Café/Coffee Machine)
-// Por: Maratona de Programação da SBC, ACM ICPC 2017
+// Resolução do Desafio 2670 - URI (Máquina de Café / Coffee Machine)
 // Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/2670
 // Acesso: 02/07/2021
+// Por: Maratona de Programação da SBC, ACM ICPC 2017
+// Créditos Código: José Rafael R. Nascimento
 
 
 class Main {  
