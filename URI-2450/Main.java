@@ -2,6 +2,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// Resolução do Desafio 2450 - URI (Matriz Escada/Matrix Ladder)
+// Por: OBI - Olimpíada Brasileira de Informática 2014
+// Link: https://www.urionlinejudge.com.br/judge/en/problems/view/2450
+// Acesso: 02/07/2021
+
 
 class Main {  
 
